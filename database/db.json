@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Chaveiro Liverpool FC",
+      "price": "10",
+      "image": "https://www.merchandisingplaza.com.br/401401/2/Chaveiros-Liverpool-FC-Chaveiro-Liverpool-FC-l.jpg",
+      "id": 1
+    },
+    {
+      "name": "Camisa I Liverpool FC 24/25",
+      "price": "350",
+      "image": "https://acdn.mitiendanube.com/stores/002/794/749/products/img_8546-83de282d092326496c17237638419567-1024-1024.jpeg",
+      "id": 2
+    },
+    {
+      "name": "Camisa Treino Liverpool FC 24/25",
+      "price": "199",
+      "image": "https://acdn.mitiendanube.com/stores/001/402/723/products/716df066-483cebd7660708ac6a17206428422229-1024-1024.jpg",
+      "id": 5
+    }
+  ]
+}
